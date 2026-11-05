@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Douglas Santos
 
-- 🔭 Hoje trabalho com Cloud AWS
-- 🌱 Entusiasta em DevOps
+- 🔭 Hoje trabalho como DevOps para infraestrutura em Cloud AWS
 
 <div align="center">
   <a href="https://github.com/douglasdalves">
